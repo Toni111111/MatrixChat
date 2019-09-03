@@ -1,0 +1,1 @@
+include ':app', ':matrix-sdk-core', ':matrix-sdk', ':matrix-sdk-crypto'
